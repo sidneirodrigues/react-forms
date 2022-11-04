@@ -1,4 +1,4 @@
-# Base do exercício de construção de um formulário em React + Typescript.
+# Exercício de construção de um formulário em React + Typescript.
 
 ## Instruções
 
@@ -10,17 +10,13 @@ Após instaladas as dependências, o comando para rodar o projeto é:
 
 `npm run dev`
 
-Ótimo. Boa sorte!
-
 ---
 
 ## Resolução do exercício
 
-O exercício resolvido está no arquivo `src/App_RESOLVIDO.tsx`.
-
-OBS: Não olhe o arquivo antes de tentar fazer sozinho, por favor.
+O exercício resolvido está no arquivo `src/App.tsx`.
 
 ---
 
 ## Dúvidas?
-Nos envie um e-mail para suporte@b7web.com.br que te ajudamos com prazer.
+Nos envie um e-mail para sidnei.c.rodrigues@hotmail.com que te ajudamos com prazer.
